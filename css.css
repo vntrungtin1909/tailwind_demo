@@ -7,3 +7,6 @@ p {
     color: wheat;
     font-size: 30px;
 }
+p:hover {
+    font-size: 50px;
+}
