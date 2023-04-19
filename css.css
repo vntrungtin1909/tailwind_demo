@@ -3,3 +3,7 @@
     margin: 0;
     background-image: linear-gradient(red, black);
 }
+p {
+    color: wheat;
+    font-size: 30px;
+}
